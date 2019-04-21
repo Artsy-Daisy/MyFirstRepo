@@ -1,0 +1,7 @@
+Hi Mara!   Did you work on any fun projects this week?
+Work was a drag, but my play was good.  I started webscraping fabric
+image files for my color theory project.  I'm using Splinter and BeautifulSoup
+in Python.  It's fun! 
+
+I hope we see each other again & have a Happy Easter. 
+- Elizabeth Brown
